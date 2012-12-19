@@ -1,0 +1,40 @@
+USER: Zobayer Hasan [zobayer1]
+TASK: calfflac
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.011 secs, 2816 KB]
+   Test 2: TEST OK [0.000 secs, 2816 KB]
+   Test 3: TEST OK [0.000 secs, 2816 KB]
+   Test 4: TEST OK [0.011 secs, 2816 KB]
+   Test 5: TEST OK [0.000 secs, 2816 KB]
+   Test 6: TEST OK [0.000 secs, 2816 KB]
+   Test 7: TEST OK [0.011 secs, 2816 KB]
+   Test 8: TEST OK [0.637 secs, 2816 KB]
+
+All tests OK.
+
+Your program ('calfflac') produced all correct answers! This is your submission #4 for this problem. Congratulations!
+
+Here are the test data inputs:
+
+------- test 1 -------
+Confucius say: Madam, I'm Adam.
+
+------- test 2 -------
+LupgTU{YtMzkojlNfWiuRXReZYzcoOwuGuqo{WEzQZe[LqoHxgNsDdoixRIReZplGXKgcSJthF[gcWkC
+
+WinQvfIIgcikm[lk[kFB
+
+------- test 3 -------
+------- test 4 -------
+------- test 5 -------
+------- test 6 -------
+------- test 7 -------
+------- test 8 -------
+
+Keep up the good work!
+Thanks for your submission!

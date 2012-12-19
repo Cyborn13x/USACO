@@ -1,0 +1,48 @@
+USER: Zobayer Hasan [zobayer1]
+TASK: fact4
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.011 secs, 2800 KB]
+   Test 2: TEST OK [0.011 secs, 2800 KB]
+   Test 3: TEST OK [0.000 secs, 2800 KB]
+   Test 4: TEST OK [0.011 secs, 2800 KB]
+   Test 5: TEST OK [0.011 secs, 2800 KB]
+   Test 6: TEST OK [0.000 secs, 2800 KB]
+   Test 7: TEST OK [0.000 secs, 2800 KB]
+   Test 8: TEST OK [0.011 secs, 2800 KB]
+   Test 9: TEST OK [0.000 secs, 2800 KB]
+   Test 10: TEST OK [0.000 secs, 2800 KB]
+
+All tests OK.
+
+Your program ('fact4') produced all correct answers! This is your submission #2 for this problem. Congratulations!
+
+Here are the test data inputs:
+
+------- test 1 -------
+1
+------- test 2 -------
+2
+------- test 3 -------
+7
+------- test 4 -------
+14
+------- test 5 -------
+143
+------- test 6 -------
+645
+------- test 7 -------
+777
+------- test 8 -------
+888
+------- test 9 -------
+999
+------- test 10 -------
+1000
+
+Keep up the good work!
+Thanks for your submission!

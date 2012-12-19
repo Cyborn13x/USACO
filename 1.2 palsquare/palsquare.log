@@ -1,0 +1,42 @@
+USER: Zobayer Hasan [zobayer1]
+TASK: palsquare
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.022 secs, 2848 KB]
+   Test 2: TEST OK [0.000 secs, 2848 KB]
+   Test 3: TEST OK [0.000 secs, 2844 KB]
+   Test 4: TEST OK [0.032 secs, 2848 KB]
+   Test 5: TEST OK [0.000 secs, 2848 KB]
+   Test 6: TEST OK [0.011 secs, 2848 KB]
+   Test 7: TEST OK [0.000 secs, 2848 KB]
+   Test 8: TEST OK [0.000 secs, 2848 KB]
+
+All tests OK.
+
+YOUR PROGRAM ('palsquare') WORKED FIRST TIME! That's fantastic -- and a rare thing. Please accept these special automated congratulations.
+
+Here are the test data inputs:
+
+------- test 1 -------
+10
+------- test 2 -------
+2
+------- test 3 -------
+5
+------- test 4 -------
+11
+------- test 5 -------
+15
+------- test 6 -------
+18
+------- test 7 -------
+20
+------- test 8 -------
+3
+
+Keep up the good work!
+Thanks for your submission!
